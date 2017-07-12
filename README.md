@@ -6,4 +6,6 @@ A bash that creates an Anjuta project in several seconds.
 git clone https://github.com/siger-young/anjuta-project-fast-ignite.git
 chmod 777 new.sh
 ```
-Execute ```./new.sh``` typing your project name and a new Anjuta project will be generated.
+* Execute ```./new.sh``` typing your site (category) name
+* Execute ```./new.sh``` in the corresponding directory
+* You will get a new clean Anjuta project.
